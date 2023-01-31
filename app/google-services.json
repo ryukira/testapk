@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68632626379",
+    "project_id": "testapk-bd270",
+    "storage_bucket": "testapk-bd270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68632626379:android:de755971698666e4b2874e",
+        "android_client_info": {
+          "package_name": "com.android.testapk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68632626379-f66e5jqosuas0nr9ft29jr3lcesi4lc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhvSNkKKtXQbgPgMte5yO4MYS_Dys3tfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68632626379-f66e5jqosuas0nr9ft29jr3lcesi4lc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
